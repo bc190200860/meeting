@@ -9,9 +9,11 @@ To run this application you need to follow the following steps.
 
 After making sure the above is done,
 
-#### To run locally, run the following in your terminal:
+#### Clone the project
 
-* $ git clone https://github.com/bc190200860/meeting.git
+*  $ git clone https://github.com/bc190200860/meeting.git
+
+#### To run locally, run the following in your terminal:
 
 * $ cd meeting
 
